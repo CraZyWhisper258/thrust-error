@@ -1,1 +1,2 @@
-# thrust-error
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
